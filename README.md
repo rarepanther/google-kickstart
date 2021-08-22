@@ -1,2 +1,2 @@
 # google-kickstart
-A collection of my solutions for previous google kickstart competitions.
+A collection of my python solutions for previous google kickstart competitions.
